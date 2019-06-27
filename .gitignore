@@ -1,0 +1,42 @@
+### Java
+# Compiled class file
+*.class
+*.classpath
+
+# Log file
+*.log
+
+
+### IntelliJ
+out/
+.idea/
+**/*.iml
+.idea_modules/
+
+
+### Eclipse
+
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+.project
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+
+
+
+### MAVEN
+**/target/
